@@ -2,7 +2,7 @@
 <h3 align="center">Previous 3.5/4 PharmD H.Bsc, current M.Sc PharmSci doing research in Pharmacy using data science predominantly in R and ML to understand economic pharmacist labor conditions to improve public health. Also I am making new projects to incorporate AI in healthcare/pharmacy to improve patient health and pharmacist conditions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olexiypukhov&label=Profile%20views&color=0e75b6&style=flat" alt="olexiypukhov" /> </p>
-<img align="right" alt="Coding" width="600" src="https://bairesdev.mo.cloudinary.net/blog/2023/09/AI-In-Healthcare.jpg">
+<img align="right" alt="Coding" width="600" src="https://news.ashp.org/-/media/NewsCenter/ASHP-News/2023/AI-Hero-921x512.jpg">
 - 🔭 I’m currently working on **Clinical Pharmacist AI**
 
 - 🌱 I’m currently learning **more about langchain, advanced RAG concepts, integration of software into healthcare systems**
