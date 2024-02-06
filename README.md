@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18862
-Fork on GitHub
-5640
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Olexiy Pukhov</h1>
 <h3 align="center">Previous 3.5/4 PharmD H.Bsc, current M.Sc PharmSci doing research in Pharmacy using data science predominantly in R and ML to understand economic pharmacist labor conditions to improve public health. Also I am making new projects to incorporate AI in healthcare/pharmacy to improve patient health and pharmacist conditions.</h3>
 
