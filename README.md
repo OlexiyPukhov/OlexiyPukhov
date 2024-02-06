@@ -21,6 +21,8 @@
 
 - ⚡ A Project that I made myself that I'm proud of **https://olexiypukhov.shinyapps.io/Pharm_Assist/**
 
+- 👯👯👯 My Portfolio site: https://olexiypukhov3.wixsite.com/olexiy-pukhov-s-apps
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olexiy-pukhov-a03950125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olexiy-pukhov-a03950125/" height="30" width="40" /></a>
