@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Contact me on linkedin!**
 
-- 📄 Know about my experiences [Trained as a pharmacist, not a pharmacist, self taught developer and researcher at Leslie Dan](Trained as a pharmacist, not a pharmacist, self taught developer and researcher at Leslie Dan)
+- 📄 Know about my experiences [Trained as a pharmacist, not a pharmacist, self taught developer and researcher at Leslie Dan]
 
 - ⚡ A Project that I made myself that I'm proud of **https://olexiypukhov.shinyapps.io/Pharm_Assist/**
 
