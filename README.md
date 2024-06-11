@@ -21,7 +21,7 @@
 
 - ⚡ A Project that I made myself that I'm proud of **https://olexiypukhov.shinyapps.io/Pharm_Assist/**
 
-- 👯👯👯 My Portfolio site: https://olexiypukhov3.wixsite.com/olexiy-pukhov-s-apps
+- 👯👯👯 My Portfolio site: www.olexiy-pukhov.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
