@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Olexiy Pukhov</h1>
 <h3 align="center">Previous 3.5/4 PharmD H.Bsc, current M.Sc student doing research in Pharmacy using data science predominantly in R and ML to understand economic pharmacist labor patterns to improve public health. Also I am making new projects to incorporate AI in healthcare/pharmacy to improve patient health and pharmacist working conditions. Also creating other products for startups with vector databases and setting up systems for it. </h3>
 
+Most of the contributions are in private repos for Aiskyra or for other clients. There are a few public repos.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olexiypukhov&label=Profile%20views&color=0e75b6&style=flat" alt="olexiypukhov" /> </p>
 <img align="right" alt="Coding" width="600" src="https://news.ashp.org/-/media/NewsCenter/ASHP-News/2023/AI-Hero-921x512.jpg">
 - 🔭 I’m currently working on **Clinical Pharmacist AI**
