@@ -9,7 +9,7 @@ Most of the contributions are in private repos for Aiskyra or for other clients.
 
 - 🌱 I’m currently learning **more about langchain, advanced RAG concepts, integration of software into healthcare systems**
 
-- 👯 Completed masters thesis: https://utoronto.scholaris.ca/statistics/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96<a href="https://utoronto.scholaris.ca/statistics/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96" target="blank">
+- 👯 Completed masters thesis: https://utoronto.scholaris.ca/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96<a href="https://utoronto.scholaris.ca/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96" target="blank">
 
 - 🤝 I am also additionally working on **Software Vector Database of Canada Grants and Loans**
 
