@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olexiy Pukhov</h1>
-<h3 align="center">Previous 3.5/4 PharmD H.Bsc, current M.Sc student doing research in Pharmacy using data science predominantly in R and ML to understand economic pharmacist labor patterns to improve public health. Also I am making new projects to incorporate AI in healthcare/pharmacy to improve patient health and pharmacist working conditions. Also creating other products for startups with vector databases and setting up systems for it. </h3>
+<h3 align="center">Previous 3.5/4 PharmD H.Bsc, M.sc doing research in Pharmacy using data science predominantly in R and ML to understand economic pharmacist labor patterns to improve public health. Also I am making new projects to incorporate AI in healthcare/pharmacy to improve patient health and pharmacist working conditions. Also creating other products for startups with vector databases and setting up systems for it. </h3>
 
 Most of the contributions are in private repos for Aiskyra or for other clients. There are a few public repos.
 
@@ -9,7 +9,7 @@ Most of the contributions are in private repos for Aiskyra or for other clients.
 
 - 🌱 I’m currently learning **more about langchain, advanced RAG concepts, integration of software into healthcare systems**
 
-- 👯 I’m also currently working on my thesis paper **Longitudinal Ontario Pharmacist Attrition and Labor Analysis Stratified by Educational Background**
+- 👯 Completed masters thesis: https://utoronto.scholaris.ca/statistics/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96<a href="https://utoronto.scholaris.ca/statistics/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96" target="blank">
 
 - 🤝 I am also additionally working on **Software Vector Database of Canada Grants and Loans**
 
