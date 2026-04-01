@@ -18,7 +18,7 @@ Most contributions are in private repos for Aiskyra or clients. A few public rep
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/olexiy-pukhov/)**
 
-- 🌐 Portfolio: **[olexiy-pukhov.com](https://www.olexiy-pukhov.com)**
+- 🌐 Portfolio: **[olexiy-pukhov.com](https://olexiy-pukhov.com/)**
 
 - ⚡ Self-taught across **10+ programming languages** with **100,000+ lines of code** written
 
