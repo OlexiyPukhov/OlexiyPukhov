@@ -8,7 +8,7 @@ Most contributions are in private repos for Aiskyra or clients. A few public rep
 
 - 🔭 Building and scaling **[Aiskyra](https://aiskyra.com/)** — enterprise partnerships with OPA, MedEssist, and an international white-label client. Built the full technical stack solo.
 
-- 📝 Published a three-part empirical series in the **Canadian Pharmacists Journal** on community pharmacy economics (Parts 1 & 2: Mar/Apr 2026, Part 3 forthcoming) with an accompanying open dataset
+- 📝 Published a three-part empirical series in the **Canadian Pharmacists Journal** on community pharmacy economics (Parts 1 & 2: Expected Mar/Apr 2026, Part 3 forthcoming) with an accompanying open dataset
 
 - 🎓 Completed masters thesis: [Labor Market Outcomes of International vs. Domestic Pharmacy Graduates](https://utoronto.scholaris.ca/items/83cce635-5fdd-4a17-88b2-fbadf1e0ed96)
 
